@@ -7,7 +7,7 @@
 
 ## ⚡ Preview
 <p align="center">
-  <img src="./assets/twitter-clone-screenshot.png" alt="Twitter Clone Screenshot" width="80%">
+  <img src="./img/twitter-clone-screenshot.png" alt="Twitter Clone Screenshot" width="80%">
 </p>
 
 ---
