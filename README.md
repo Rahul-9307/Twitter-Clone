@@ -7,7 +7,7 @@
 
 ## ⚡ Preview
 <p align="center">
-  <img src="https://via.placeholder.com/600x350?text=Project+Demo+Screenshot" alt="Demo Screenshot" width="70%">
+  <img src="./assets/twitter-clone-screenshot.png" alt="Twitter Clone Screenshot" width="80%">
 </p>
 
 ---
